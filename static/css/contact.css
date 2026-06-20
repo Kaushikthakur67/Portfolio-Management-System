@@ -1,0 +1,91 @@
+/* ---------- General ---------- */
+
+body{
+
+    margin:0;
+
+    padding:0;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#eef2f7;
+}
+
+/* ---------- Navbar ---------- */
+
+.navbar{
+
+    background:#212529 !important;
+}
+
+/* ---------- Contact Section ---------- */
+
+.contact-section{
+
+    padding:80px 0;
+}
+
+.contact-card{
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:15px;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+
+.contact-card h1{
+
+    color:#198754;
+
+    font-weight:bold;
+
+    margin-bottom:25px;
+}
+
+.contact-card p{
+
+    font-size:18px;
+
+    margin-bottom:15px;
+}
+
+/* ---------- Icons ---------- */
+
+.info{
+
+    font-size:18px;
+
+    margin-bottom:20px;
+}
+
+/* ---------- Form ---------- */
+
+.form-control{
+
+    border-radius:10px;
+}
+
+.btn-success{
+
+    border-radius:30px;
+
+    padding:10px 35px;
+}
+
+/* ---------- Footer ---------- */
+
+footer{
+
+    background:#212529;
+
+    color:white;
+
+    text-align:center;
+
+    padding:20px;
+
+    margin-top:60px;
+}
